@@ -1,3 +1,5 @@
+<img src=https://i.ibb.co/YjgmKsC/Text-Pro-me-163490782bfdbc.jpg>
+
 ### Hi i'm lamiiz 👋
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Hi...++im+lamiiz;Welcome+to+my+profile;full+stack+developer)](https://git.io/typing-svg)
