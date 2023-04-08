@@ -56,7 +56,7 @@
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=lamiiz)
 
 </details>
-
+sd
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
